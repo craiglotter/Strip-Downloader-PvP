@@ -1,0 +1,10 @@
+Strip Downloader: PvP allows you to download all the 'PvP' comic strips from http://www.pvponline.com/ between a specified date range.
+
+To start the download process, simply click on the Download button. After selecting a folder to download the comic strips to, the download process will automtically begin.
+
+You can cancel the download process at any time by clicking on the Cancel button.
+
+The about and help menu items brings up the about and help dialog screens respectively. The AutoUpdate option checks for any updates for this application.
+
+
+-- Last Updated: 11/06/2008 --
