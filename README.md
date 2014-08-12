@@ -1,4 +1,21 @@
-Strip-Downloader-PvP
-====================
+Strip Downloader: PvP
+=====================
 
-Strip Downloader: PvP is a quick and dirty application to download all the 'PvP' comic strips from http://www.pvponline.com/ between a specified date range.  Created by Craig Lotter, June 2008
+Strip Downloader: PvP is a quick and dirty application to download all the 'PvP' comic strips from http://www.pvponline.com/ between a specified date range.
+
+Created by Craig Lotter, June 2008
+
+*********************************
+
+Project Details:
+
+Coded in Visual Basic .NET using Visual Studio .NET 2008
+Implements concepts such as File Downloads
+Level of Complexity: Very Simple
+
+*********************************
+
+Update 20080612.02:
+
+- Changed file download code in order to accomdate UCT's ISA authentication/cache server
+- Added menu option to allow for easy setting of stored network user name and password (for use with proxies, like UCT's ISA proxy cache server)
